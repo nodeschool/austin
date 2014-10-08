@@ -16,6 +16,11 @@ What's a NodeSchool?
 * NodeSchool help: https://github.com/nodeschool/discussions/issues
 
 
+###More about NodeSchool
+* NodeUp Podcast discussing NodeSchool: http://nodeup.com/fiftyfive
+* Teach Your Way to Becoming a Better Programmer: https://medium.com/social-tables-tech/teach-your-way-to-becoming-a-better-programmer-135c6aca5968
+
+
 Get Node Up and Running
 ------
 * nvm: https://github.com/creationix/nvm
