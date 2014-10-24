@@ -24,15 +24,12 @@ What's a NodeSchool?
 Get Node Up and Running
 ------
 * nvm: https://github.com/creationix/nvm
-
-Allows for multiple Node.js versions installed (similar to Ruby's rvm)
-Installs in user's home directory, avoids "sudo" problems
+   * Allows for multiple Node.js versions installed (similar to Ruby's rvm)
+   * Installs in user's home directory, avoids "sudo" problems
 
 * Node.js binary: http://nodejs.org/
-
-Easiest install method
-
-Can require "sudo" permissions
+   * Easiest install method
+   * Can require "sudo" permissions
 
 General Resources:
 ------
