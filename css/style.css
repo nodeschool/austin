@@ -1,0 +1,40 @@
+/* global styling */
+body {
+    background: linear-gradient(#2A2A29, #1C1C1C);
+    background-attachment: fixed;
+    color: #E8E8E8;
+}
+a {
+    color: #D56100;
+}
+a:hover {
+    color: #BF5700;
+    text-decoration: none;
+}
+h1 {
+    font-weight: 300;
+}
+
+/* main section */
+.main {
+    margin-top: 2em;
+    padding: 1em;
+}
+.main .title {
+    text-align: center;
+}
+.main .description {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 600px;
+    margin-top: 2em;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+/* bootstrap's extra small */
+@media (max-width: 767px) {
+    .main {
+        margin-top: 1em;
+    }
+}
