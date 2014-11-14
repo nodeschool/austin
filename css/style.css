@@ -3,6 +3,7 @@ body {
     background: linear-gradient(#2A2A29, #1C1C1C);
     background-attachment: fixed;
     color: #E8E8E8;
+    font-family: "Roboto", sans-serif;
 }
 a {
     color: #D56100;
@@ -11,30 +12,61 @@ a:hover, a:focus {
     color: #BF5700;
     text-decoration: none;
 }
-h1 {
-    font-weight: 300;
+code {
+    background-color: #BABABA;
 }
 
 /* main section */
 .main {
-    margin-top: 2em;
     padding: 1em;
-}
-.main .title {
     text-align: center;
-}
-.main .description {
-    text-align: center;
-    margin: 0 auto;
-    max-width: 600px;
-    margin-top: 2em;
     font-size: 16px;
     font-weight: 300;
+}
+.main h1, .main h2, .main h3 {
+    font-weight: 300;
+}
+.main .title img {
+    width: 15em;
+}
+.main .title hr {
+    border-top: 1px inset #D56100;
+    margin: 2em 4em 1.5em;
+}
+.main .info hr {
+    border-top: 1px inset #D56100;
+    margin: 1em 4em;
+}
+.main .info {
+    margin: 0 auto;
+    max-width: 700px;
+}
+.main .description {
+    margin-top: 1em;
+}
+.main .contact, .main .nodeschool {
+    margin-top: 2em;
+}
+.main p {
+    margin: 1em 0;
+}
+.main p:first-child {
+    margin: initial;
+}
+.main ul {
+    text-align: left;
+    padding-left: 1.5em;
+}
+.main li {
+    list-style: circle;
 }
 
 /* bootstrap's extra small */
 @media (max-width: 767px) {
-    .main {
-        margin-top: 1em;
+    .main .title img {
+        width: 12em;
+    }
+    .main .title hr {
+        margin: 2em;
     }
 }
