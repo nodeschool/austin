@@ -19,9 +19,11 @@ code {
 /* main section */
 .main {
     padding: 1em;
-    text-align: center;
     font-size: 16px;
     font-weight: 300;
+}
+.main h1, .main h2, .main .title {
+    text-align: center;
 }
 .main h1, .main h2, .main h3 {
     font-weight: 300;
