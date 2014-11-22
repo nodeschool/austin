@@ -6,10 +6,11 @@ For more information on Austin NodeSchool, please visit: http://nodeschool.io/au
 
 ## Contact ##
 
-Austin NodeSchool has an official Twitter account, and a Gitter chat. If you would like to help by sponsoring an event, please contact us!
+Austin NodeSchool uses an Issues list much like a forum, has a Gitter chat for instant communication between members, and has an official Twitter account. If you would like to help by sponsoring an event, please contact us!
 
-*   Twitter: https://twitter.com/atxnodejs
+*   Issues list (forum for question/answer): https://github.com/nodeschool/austin/issues
 *   Gitter chat: [![Gitter chat](https://badges.gitter.im/nodeschool/austin.png)](https://gitter.im/nodeschool/austin)
+*   Twitter: https://twitter.com/atxnodejs
 
 ## Events ##
 
