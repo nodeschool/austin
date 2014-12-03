@@ -18,4 +18,4 @@ For information on upcoming events, checkout our Meetup page: http://www.meetup.
 
 ## Mentors ##
 
-If you've been mentoring at events, our would like to volunteer to help out, please add yourself to [MENTORS.md](https://github.com/nodeschool/austin/blob/master/MENTORS.md). (Please let us know if you need access to the [Austin NodeSchool team](https://github.com/orgs/nodeschool/teams/austin).)
+If you've been mentoring at events, or would like to volunteer to help out, please add yourself to [MENTORS.md](https://github.com/nodeschool/austin/blob/master/MENTORS.md). (Please let us know if you need access to the [Austin NodeSchool team](https://github.com/orgs/nodeschool/teams/austin).)
