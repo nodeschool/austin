@@ -2,3 +2,4 @@
 *   [Enrique Delgado](https://twitter.com/enriquedelgado)
 *   [Kearney Taaffe](https://twitter.com/k_taaffe)
 *   [Dylan Smith](https://twitter.com/dylants)
+*   [Dennis Bartlett](https://twitter.com/bartlettdc1)
