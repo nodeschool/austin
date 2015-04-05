@@ -1,14 +1,13 @@
 # Promise it won't hurt #
 
-A Workshopper module that teaches you to use promises in javascript
-[github](https://github.com/stevekane/promise-it-wont-hurt).
+A Workshopper module that teaches you to use promises in javascript, [module github](https://github.com/stevekane/promise-it-wont-hurt).
 
 Promises offer a very powerful abstraction for obtaining values asynchronously.
 As javascript is a async-first language it is important to understand the options you have for handling asynchronicity.
 
 You will learn the ins and outs of promises including error handling, value propagation, synchronous returns, and composition.
 
-By the end of the workshop you will be comfortable using [Q](https://github.com/kriskowal/q) to work with promises AND writing your own functions that leverage promises to provide clean abstractions and error handling.
+By the end of the workshop you will be comfortable using the [Q library](https://github.com/kriskowal/q) to work with promises AND writing your own functions that leverage promises to provide clean abstractions and error handling.
 
 ## Setup ##
 
