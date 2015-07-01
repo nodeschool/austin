@@ -2,4 +2,5 @@
 *   [Enrique Delgado](https://twitter.com/enriquedelgado)
 *   [Kearney Taaffe](https://twitter.com/k_taaffe)
 *   [Dylan Smith](https://twitter.com/dylants)
+*   [Avi Das](https://twitter.com/avidas)
 *   [Dennis Bartlett](https://twitter.com/bartlettdc1)
