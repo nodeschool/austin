@@ -4,3 +4,4 @@
 *   [Dylan Smith](https://twitter.com/dylants)
 *   [Avi Das](https://twitter.com/avidas)
 *   [Dennis Bartlett](https://twitter.com/bartlettdc1)
+*   [Evan Lucas](https://github.com/evanlucas)
