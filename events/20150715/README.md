@@ -2,6 +2,8 @@
 
 Learn how to use [Browserify](http://browserify.org/) through Node with the [browserify-adventure](https://github.com/substack/browserify-adventure) workshop.
 
+Thanks again to [Avi Das](https://twitter.com/avidas) for guest hosting the workshop!  [Find the slides he presented here](http://slides.com/ananyadas/deck#/).
+
 ## Setup ##
 
 Be sure you've gone through the [initial setup found on the Austin NodeSchool website](http://nodeschool.io/austin/#getting-started), including installing Node, and making sure `npm` is available from the command line.
