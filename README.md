@@ -10,7 +10,7 @@ Austin NodeSchool uses an Issues list much like a forum, has a Gitter chat for i
 
 *   Issues list (forum for question/answer): https://github.com/nodeschool/austin/issues
 *   Gitter chat: [![Gitter chat](https://badges.gitter.im/nodeschool/austin.png)](https://gitter.im/nodeschool/austin)
-*   Twitter: https://twitter.com/atxnodejs
+*   Twitter: https://twitter.com/ATXNodeSchool
 
 ## Events ##
 
