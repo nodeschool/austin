@@ -1,0 +1,9 @@
+{
+    "globalstrict": true,
+    "globals": {
+        "module": false,
+        "require": false,
+        "process": false,
+        "console": false
+    }
+}
