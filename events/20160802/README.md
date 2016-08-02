@@ -18,7 +18,7 @@ $ npm install -g scope-chains-closures
 Create a new directory to do your workshop work in.  Let's call it "learning_closures".
 
 ```
-$ mkdir learning_closures && cd !$
+$ mkdir learning_closures && cd learning_closures
 ```
 
 ## Workshoop Instructions
