@@ -39,15 +39,7 @@ Problems are listed in rough order of difficulty. You are advised to complete th
 
 Once you have selected a problem, the workshop will remember which problem you are working on. Using your preferred editor, simply create a file to write your solution in.
 
-### 3. Test your solution
-
-This workshop allows you to run your solution by using the command `scope-chains-closures run`. Use this command to test your solution. Your solution will be loaded and passed the problem input. This usually won't perform any validation, it will only show the program output.
-
-```
-$ scope-chains-closures run <your_file.js>
-```
-
-### 4. Verify your solution
+### 3. Verify your solution
 
 This workshop requires that you run your solution through `scope-chains-closures`. Using the workshop's `verify` command, your solution will be verified against the output of the "official" solution. If all of the output matches, then you have successfully solved the problem!
 
