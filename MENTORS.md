@@ -7,3 +7,4 @@
 *   [Evan Lucas](https://github.com/evanlucas)
 *   [Alfredo Miranda](https://github.com/mirandaio)
 *   [Monico Moreno](https://twitter.com/javascriptstack)
+*   [Rob Horrigan](https://twitter.com/rob_horrigan)
