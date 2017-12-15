@@ -9,3 +9,4 @@
 *   [Monico Moreno](https://twitter.com/javascriptstack)
 *   [Rob Horrigan](https://twitter.com/rob_horrigan)
 *   [David Aktary] (https://twitter.com/davidaktary)
+*   [Nana Amfo](https://github.com/Aerex)
