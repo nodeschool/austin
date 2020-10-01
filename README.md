@@ -1,4 +1,4 @@
-# Austin NodeSchool #
+# AUSTIN NodeSchool #
 
 Austin NodeSchool was launched by [Stefan von Ellenrieder](https://twitter.com/stefanmve), and is supported by [Kearney Taaffe](https://twitter.com/k_taaffe) and [Dylan Smith](https://twitter.com/dylants).
 
